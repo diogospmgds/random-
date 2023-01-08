@@ -1,0 +1,30 @@
+Time,Date,Temp,Weather,Wind,Humidity,Barometer,Visibility
+12:53:00 PM,12/8/22,-4省C,Overcast.,7 km/h,81%,1031 mbar,16蔾m
+11:04:00 AM,12/9/22,-1省C,Mostly cloudy.,41 km/h,82%,1015 mbar,13蔾m
+1:53:00 PM,12/10/22,3省C,Sunny.,13 km/h,62%,1015 mbar,16蔾m
+6:53:00 AM,12/11/22,3省C,Mostly cloudy.,19 km/h,60%,1008 mbar,16蔾m
+3:53:00 PM,12/12/22,-4省C,Ice fog.,6 km/h,91%,1037 mbar,1蔾m
+5:53:00 PM,12/13/22,-9省C,Light snow. Overcast.,11 km/h,77%,1035 mbar,6蔾m
+1:53:00 PM,12/14/22,-19省C,Sunny.,15 km/h,53%,1040 mbar,16蔾m
+7:53:00 AM,12/15/22,2省C,Overcast.,50 km/h,82%,1011 mbar,16蔾m
+10:53:00 PM,12/16/22,-1省C,Overcast.,30 km/h,72%,1024 mbar,16蔾m
+12:53:00 PM,12/17/22,-16省C,Sunny.,7 km/h,76%,1034 mbar,16蔾m
+1:53:00 PM,12/18/22,-13省C,Sunny.,No wind,76%,1024 mbar,16蔾m
+12:53:00 PM,12/19/22,-9省C,Overcast.,9 km/h,77%,1028 mbar,14蔾m
+3:53:00 AM,12/20/22,-8省C,Low clouds.,9 km/h,88%,1033 mbar,16蔾m
+10:53:00 AM,12/21/22,-6省C,Ice fog.,11 km/h,85%,1029 mbar,10蔾m
+2:53:00 PM,12/22/22,-4省C,Light snow. Low clouds.,13 km/h,81%,1025 mbar,10蔾m
+12:11:00 AM,12/23/22,-3省C,Light snow. Ice fog.,9 km/h,85%,1008 mbar,4蔾m
+12:38:00 AM,12/24/22,1省C,Light snow. Fog.,13 km/h,88%,1002 mbar,8蔾m
+2:53:00 PM,12/25/22,-2省C,Ice fog.,No wind,89%,1032 mbar,1蔾m
+1:53:00 PM,12/26/22,1省C,Scattered clouds.,11 km/h,82%,1024 mbar,11蔾m
+12:53:00 PM,12/27/22,7省C,Overcast.,35 km/h,65%,1001 mbar,16蔾m
+3:53:00 PM,12/28/22,1省C,Mostly cloudy.,30 km/h,72%,1007 mbar,16蔾m
+3:53:00 PM,12/29/22,-2省C,Sunny.,No wind,75%,1016 mbar,16蔾m
+9:53:00 AM,12/30/22,2省C,Overcast.,7 km/h,85%,1007 mbar,16蔾m
+2:53:00 PM,12/31/22,-1省C,Sunny.,32 km/h,64%,1011 mbar,16蔾m
+1:53:00 PM,1/1/23,-4省C,Overcast.,19 km/h,71%,1013 mbar,16蔾m
+5:53:00 PM,1/2/23,-3省C,Overcast.,15 km/h,72%,1018 mbar,16蔾m
+2:53:00 PM,1/3/23,-7省C,Overcast.,15 km/h,78%,1027 mbar,16蔾m
+2:53:00 PM,1/4/23,1省C,Overcast.,7 km/h,78%,1017 mbar,16蔾m
+9:23:00 PM,1/5/23,1省C,Light snow. Fog.,11 km/h,88%,1006 mbar,2蔾m
